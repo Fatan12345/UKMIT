@@ -1,0 +1,138 @@
+.ourportfolio{
+	padding: 80px;
+	padding-bottom: 80px;
+}
+		.ourportfolio .header-title{
+			margin-bottom: 50px; 
+		}
+		.ourportfolio .header-title h2{
+			font-weight: bold !important;
+			text-align: center;
+		}
+
+		.ourportfolio .header-title p{
+			text-align: center;
+		}
+		.ourportfolio .tab-content{
+			margin-top: 20px !important;
+		}
+		.ourportfolio .btn-preview{
+			margin-top: 10px;
+			margin-bottom: 20px;
+
+		}
+
+.joinus{
+	background: #333333 !important;
+	color: white !important;
+}
+		.joinus h2{
+			color: #3498db;
+		}
+
+		.joinus .btn-join{
+			margin-top: 40px;
+		}
+
+.whatwedo{
+	padding-top:80px;
+	padding-bottom: 80px;
+}
+
+		.whatwedo .header-title{
+			margin-bottom: 50px; 
+		}
+		.whatwedo .header-title h2{
+			font-weight: bold !important;
+			text-align: center;
+		}
+
+		.whatwedo .header-title p{
+			text-align: center;
+		}
+
+		.whatwedo .content h3{
+			font-weight: bold !important;
+		}
+		.whatwedo .content h3 i{
+			background: #3498db;
+			padding: 10;
+			color: white;
+			border-radius: 3px;
+		}
+
+	
+
+.homenav {
+	position: absolute !important;
+	width: 100% !important;
+	z-index: 10;
+	background: rgba(0, 0, 0, 0.5) !important;
+	border-radius: 0 !important;
+	border: 0 !important;
+}
+		.homenav .icon-bar{
+			background: #3498db !important;
+		}
+		.homenav .navbar-toggle {
+			background:rgba(0,0,0,0)!important;
+		}
+
+		.homenav .navbar-header .navbar-brand {
+			color: #3498db!important;
+
+		}
+		
+		.homenav .collapse li a{
+			color: white !important;
+			transition : all 1s;
+		}
+
+		.homenav .collapse li a:hover{
+			color: #3498db !important;
+			transition : all 2s;
+		}
+
+		.homenav .collapse .nav .dropdown-menu {
+			background-color: #3498db;
+			
+		}
+
+		.homenav .collapse .nav .dropdown-toggle{
+		  background: rgba(0, 0, 0, 0)!important;
+		}
+
+
+#owl-demo {
+	position: relative;
+}
+
+		#owl-demo .item img{
+			display: block;
+			width: 100%;
+			height: 550px;
+		}
+		#owl-demo .content{
+			width: 70%;
+			overflow: hidden;
+			color: white;
+			position: absolute;
+			bottom: 35%;
+			left: 15%;
+		}
+
+		#owl-demo .content h1,#owl-demo .content p,#owl-demo .content button{
+			color:  white !important;
+			padding: 10px !important;
+
+		}
+
+		#owl-demo .owl-pagination{
+			position: absolute;
+			bottom: 30px;
+			left: 46%;
+		}
+
+		#owl-demo .owl-pagination span{
+			background: white;
+		}
